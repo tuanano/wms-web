@@ -1,5 +1,5 @@
 {
-  "name": "WMS Live Location Update",
-  "description": "A web application for direct, real-time location updates of warehouse inventory, optimized for both ICT and Pharmaceutical logistics. It allows users to update item locations either by scanning a location or by searching for specific items, featuring inline editing, multi-select, rule-based validation, and location suggestions.",
+  "name": "Chuyển vị trí - Web",
+  "description": "An empty app",
   "requestFramePermissions": []
 }
